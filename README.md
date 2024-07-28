@@ -16,4 +16,4 @@
 
 ## Результаты проекта: 
 * [Предобработка данных](project_for_cancer_foundation.ipynb)
-* [Дашборд]([project_for_cancer_foundation.ipynb](https://datalens.yandex/fg30id4a9lsm3))
+* [Дашборд](project_for_cancer_foundation.ipynb](https://datalens.yandex/fg30id4a9lsm3)
